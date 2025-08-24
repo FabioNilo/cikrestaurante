@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     whatsappButton.addEventListener('click', function() {
         const mensagem = gerarMensagemWhatsApp(pedidos);
-        window.open(`https://wa.me/5573981161041?text=${encodeURIComponent(mensagem)}`);
+        window.open(`https://wa.me/5573981654431?text=${encodeURIComponent(mensagem)}`);
     });
 
     function atualizarListaPedidos() {
